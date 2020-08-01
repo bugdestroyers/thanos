@@ -1,7 +1,7 @@
 <h1 align="center">
 	<br>
 	<a href="https://github.com/bugDestroyers/thanos">
-		<img src="https://github.com/bugdestroyers/thanos/blob/master/thanos-1.png" alt="Thanos">
+		<img src="https://github.com/bugdestroyers/thanos/blob/master/PicsArt_08-02-04.03.05.png" alt="Thanos">
 	</a>
 	<br>
 	Thanos
